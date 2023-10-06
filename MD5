@@ -1,8 +1,9 @@
-89e0a24c3a1a53062dc2a230fb79ed74 *DESCRIPTION
+4afd14d0eafa11dbd509a98d2c913173 *DESCRIPTION
 9428d5eb1f6cf3455e007aceb6420653 *LICENSE
-f107a093abaa96914e7027568edd0f15 *NAMESPACE
+4f0ac64c0adb34c29a421fbbea5a438d *NAMESPACE
+c706f713a2aaebd626fccc495db32d29 *NEWS.md
 38a753d08236c308e573c5ddff3150a8 *R/BayesFluxR-package.R
-65dad2befe92482cf8a5205c0631f576 *R/BayesFluxR.R
+710ab7d6500143eaa7b9cac27d03bbf7 *R/BayesFluxR.R
 c6e01d62e5b6072ae1c2a8aa84ff33b4 *R/adapter-mass.R
 3771b9f403e37c8c8ecf19a97387bce7 *R/adapter-stepsize.R
 0a3e04f5d7101bbb5465c259e4670122 *R/distributions.R
@@ -13,8 +14,8 @@ a4e6135482daa4f9a2b5662afbb170b4 *R/likelihoods.R
 1d3021e02529fa7da354a40c4872b45a *R/mode-finding.R
 52e43fd1dd2ae7e4b9e14b246368072a *R/predict.R
 785371cdb50b099741ac96f8d3d908b1 *R/priors.R
-47b037578bb324ed0de039b356d56bb9 *R/test-helpers.R
-3b8fa6775926ec93836d8452a447eb51 *R/utils.R
+a96da51ae806625fd84830f186b61e09 *R/test-helpers.R
+1e656e4622fb2b95ca52bea47d2b1677 *R/utils.R
 dd222851cff0f80efa0661f29725f5d5 *R/vi.R
 56ed38ebe176cdd31aaeb90029ab6833 *README.md
 c30c8a6251127f1370a521bdcfcca35c *inst/Julia/ascii-translate.jl
@@ -79,10 +80,12 @@ b7528b9c5ff35f498166fd7f2252402c *man/sampler.AdaptiveMH.Rd
 1314dc18903c6416520da8aea2b8da55 *man/sampler.HMC.Rd
 c9120fb6917fa78eaedfc8b151fdff37 *man/sampler.SGLD.Rd
 a2f51c23a03ac89c2280dfd39cd0b5ca *man/sampler.SGNHTS.Rd
+d1ba60a2edda91bd3e82a98d36c6ece8 *man/summary.BNN.Rd
 6cad6f0a6c3f1ca33b72be7547dfb584 *man/tensor_embed_mat.Rd
+0cd29f2ec49483a21e9a4a9ebf8d0c38 *man/to_bayesplot.Rd
 a0fdf708593374037c02f88fd92d4ccc *man/vi.get_samples.Rd
 ccd0f6e7b3c258f1417d276c52448e13 *tests/testthat.R
-775f7461d9fee957a12a847e8b159633 *tests/testthat/Manifest.toml
+82b349ca2c8987d9d64a4d3f3234d25c *tests/testthat/Manifest.toml
 f6192151e5af5f5cd3683de5e1b96db9 *tests/testthat/Project.toml
 c6e7d9eb10355efaee6e4524a2c6cd7d *tests/testthat/test-BFluxR.R
 3c132135dbcc287fbd55416e9af3c150 *tests/testthat/test-initialisers.R
